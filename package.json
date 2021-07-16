@@ -1,0 +1,22 @@
+{
+  "name": "23_drill_mongoose_coffee_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7",
+    "mongoose": "^5.12.14",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
